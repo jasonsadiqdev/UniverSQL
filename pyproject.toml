@@ -44,7 +44,7 @@ marimo = "^0.10.9"
 [tool.poetry.dev-dependencies]
 pylint = ">=2.11.1"
 pystray = "^0.19.5"
-networkx = "^3.3"
+networkx = "^3.6"
 streamlit = "^1.38.0"
 st-link-analysis = "^0.3.0"
 shandy-sqlfmt = "^0.17.0"
